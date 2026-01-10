@@ -1,0 +1,16 @@
+{
+  "name": "agent-skills",
+  "owner": {
+    "name": "dstotijn"
+  },
+  "plugins": [
+    {
+      "name": "don-skills",
+      "source": {
+        "source": "github",
+        "repo": "dstotijn/don-skills"
+      },
+      "description": "Dutch Government Developer Knowledge Base - guidelines and standards for government software development from developer.overheid.nl"
+    }
+  ]
+}
