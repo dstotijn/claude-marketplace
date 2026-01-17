@@ -1,11 +1,11 @@
 {
-  "name": "agent-skills",
+  "name": "claude-marketplace",
   "owner": {
     "name": "dstotijn"
   },
   "plugins": [
     {
-      "name": "don-skills",
+      "name": "developer-overheid-nl",
       "source": {
         "source": "github",
         "repo": "dstotijn/don-skills"

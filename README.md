@@ -12,12 +12,12 @@ Add this marketplace to Claude Code:
 
 ## Available Plugins
 
-### DON Skills
+### Developer.overheid.nl Skills
 
 Dutch Government Developer Knowledge Base - guidelines and standards for government software development from developer.overheid.nl.
 
 ```
-/plugin install don-skills@dstotijn/claude-marketplace
+/plugin install developer-overheid-nl@dstotijn/claude-marketplace
 ```
 
 **Repository:** https://github.com/dstotijn/don-skills
