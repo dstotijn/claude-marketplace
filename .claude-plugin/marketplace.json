@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "developer-overheid-nl",
+      "name": "developer-overheid-nl-agent-skills",
       "source": {
         "source": "github",
-        "repo": "dstotijn/don-skills"
+        "repo": "dstotijn/developer-overheid-nl-agent-skills"
       },
       "description": "Dutch Government Developer Knowledge Base - guidelines and standards for government software development from developer.overheid.nl"
     }

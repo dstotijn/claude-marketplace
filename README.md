@@ -20,7 +20,7 @@ Dutch Government Developer Knowledge Base - guidelines and standards for governm
 /plugin install developer-overheid-nl@dstotijn/claude-marketplace
 ```
 
-**Repository:** https://github.com/dstotijn/don-skills
+**Repository:** https://github.com/dstotijn/developer-overheid-nl-agent-skills
 
 ## Marketplace Structure
 
