@@ -17,7 +17,7 @@ Add this marketplace to Claude Code:
 Dutch Government Developer Knowledge Base - guidelines and standards for government software development from developer.overheid.nl.
 
 ```
-/plugin install developer-overheid-nl@dstotijn/claude-marketplace
+/plugin install developer-overheid-nl-agent-skills@dstotijn/claude-marketplace
 ```
 
 **Repository:** https://github.com/dstotijn/developer-overheid-nl-agent-skills
